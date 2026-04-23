@@ -1,0 +1,1827 @@
+[
+  [
+  {"text": "open notepad", "label": "open_notepad"},
+  {"text": "please open notepad", "label": "open_notepad"},
+  {"text": "launch notepad", "label": "open_notepad"},
+  {"text": "start notepad", "label": "open_notepad"},
+  {"text": "run notepad", "label": "open_notepad"},
+  {"text": "open the notepad app", "label": "open_notepad"},
+  {"text": "open notepad application", "label": "open_notepad"},
+  {"text": "open notepad program", "label": "open_notepad"},
+  {"text": "open notepad software", "label": "open_notepad"},
+  {"text": "open notepad on my computer", "label": "open_notepad"},
+  {"text": "open notepad on windows", "label": "open_notepad"},
+  {"text": "open notepad editor", "label": "open_notepad"},
+  {"text": "open text editor notepad", "label": "open_notepad"},
+  {"text": "open notepad right now", "label": "open_notepad"},
+  {"text": "open notepad quickly", "label": "open_notepad"},
+  {"text": "open notepad please", "label": "open_notepad"},
+  {"text": "open notepad for me", "label": "open_notepad"},
+  {"text": "open notepad immediately", "label": "open_notepad"},
+  {"text": "open notepad window", "label": "open_notepad"},
+  {"text": "open notepad utility", "label": "open_notepad"},
+  {"text": "open notepad function", "label": "open_notepad"}
+  ],
+  [
+  {"text": "open calculator", "label": "open_calculator"},
+  {"text": "please open calculator", "label": "open_calculator"},
+  {"text": "launch calculator", "label": "open_calculator"},
+  {"text": "start calculator", "label": "open_calculator"},
+  {"text": "run calculator", "label": "open_calculator"},
+  {"text": "open the calculator app", "label": "open_calculator"},
+  {"text": "open calculator application", "label": "open_calculator"},
+  {"text": "open calculator program", "label": "open_calculator"},
+  {"text": "open calculator software", "label": "open_calculator"},
+  {"text": "open calculator on my computer", "label": "open_calculator"},
+  {"text": "open calculator on windows", "label": "open_calculator"},
+  {"text": "open calculator tool", "label": "open_calculator"},
+  {"text": "bring up calculator", "label": "open_calculator"},
+  {"text": "fire up calculator", "label": "open_calculator"},
+  {"text": "get calculator running", "label": "open_calculator"},
+  {"text": "start the calculator app", "label": "open_calculator"},
+  {"text": "open calculator quickly", "label": "open_calculator"},
+  {"text": "open calculator right now", "label": "open_calculator"},
+  {"text": "open calculator please", "label": "open_calculator"},
+  {"text": "open calculator for me", "label": "open_calculator"},
+  {"text": "open calculator immediately", "label": "open_calculator"},
+  {"text": "open calculator window", "label": "open_calculator"},
+  {"text": "launch the calculator tool", "label": "open_calculator"}
+  ],
+  [
+  
+
+
+
+  {"text": "open visual studio code", "label": "open_vscode"},
+  {"text": "launch vscode", "label": "open_vscode"},
+  {"text": "start visual studio code", "label": "open_vscode"},
+  {"text": "please open vscode", "label": "open_vscode"},
+  {"text": "open vs code", "label": "open_vscode"},
+  {"text": "run vscode", "label": "open_vscode"},
+  {"text": "open the vscode app", "label": "open_vscode"},
+  {"text": "open vscode application", "label": "open_vscode"},
+  {"text": "open vscode program", "label": "open_vscode"},
+  {"text": "open vscode software", "label": "open_vscode"},
+  {"text": "open vscode editor", "label": "open_vscode"},
+  {"text": "open code editor vscode", "label": "open_vscode"},
+  {"text": "bring up vscode", "label": "open_vscode"},
+  {"text": "fire up vscode", "label": "open_vscode"},
+  {"text": "get vscode running", "label": "open_vscode"},
+  {"text": "start the vscode editor", "label": "open_vscode"},
+  {"text": "open vscode quickly", "label": "open_vscode"},
+  {"text": "open vscode right now", "label": "open_vscode"},
+  {"text": "open vscode please", "label": "open_vscode"},
+  {"text": "open vscode for me", "label": "open_vscode"},
+  {"text": "open vscode immediately", "label": "open_vscode"},
+  {"text": "open vscode window", "label": "open_vscode"},
+  {"text": "launch the vs code editor", "label": "open_vscode"}
+  ],
+  [
+  
+
+
+
+  {"text": "open gmail", "label": "open_gmail"},
+  {"text": "please open gmail", "label": "open_gmail"},
+  {"text": "launch gmail", "label": "open_gmail"},
+  {"text": "start gmail", "label": "open_gmail"},
+  {"text": "run gmail", "label": "open_gmail"},
+  {"text": "open the gmail app", "label": "open_gmail"},
+  {"text": "open gmail application", "label": "open_gmail"},
+  {"text": "open gmail program", "label": "open_gmail"},
+  {"text": "open gmail software", "label": "open_gmail"},
+  {"text": "open gmail on my computer", "label": "open_gmail"},
+  {"text": "open gmail on windows", "label": "open_gmail"},
+  {"text": "open gmail inbox", "label": "open_gmail"},
+  {"text": "check my email", "label": "open_gmail"},
+  {"text": "open my email", "label": "open_gmail"},
+  {"text": "bring up gmail", "label": "open_gmail"},
+  {"text": "fire up gmail", "label": "open_gmail"},
+  {"text": "get gmail running", "label": "open_gmail"},
+  {"text": "start the gmail app", "label": "open_gmail"},
+  {"text": "open gmail quickly", "label": "open_gmail"},
+  {"text": "open gmail right now", "label": "open_gmail"},
+  {"text": "open gmail please", "label": "open_gmail"},
+  {"text": "open gmail for me", "label": "open_gmail"},
+  {"text": "open gmail immediately", "label": "open_gmail"},
+  {"text": "open gmail window", "label": "open_gmail"},
+  {"text": "open gmail account", "label": "open_gmail"},
+  {"text": "open gmail messages", "label": "open_gmail"},
+  {"text": "open gmail mail", "label": "open_gmail"},  {"text": "open google", "label": "open_google"},
+  {"text": "search on google", "label": "search_google"},
+  {"text": "google something for me", "label": "search_google"},
+  {"text": "please open google", "label": "open_google"}
+
+  ],
+  [
+
+  {"text": "open youtube", "label": "open_youtube"},
+  {"text": "please open youtube", "label": "open_youtube"},
+  {"text": "launch youtube", "label": "open_youtube"},
+  {"text": "start youtube", "label": "open_youtube"},
+  {"text": "run youtube", "label": "open_youtube"},
+  {"text": "open the youtube app", "label": "open_youtube"},
+  {"text": "open youtube application", "label": "open_youtube"},
+  {"text": "open youtube program", "label": "open_youtube"},
+  {"text": "open youtube software", "label": "open_youtube"},
+  {"text": "open youtube on my computer", "label": "open_youtube"},
+  {"text": "open youtube on windows", "label": "open_youtube"},
+  {"text": "bring up youtube", "label": "open_youtube"},
+  {"text": "fire up youtube", "label": "open_youtube"},
+  {"text": "get youtube running", "label": "open_youtube"},
+  {"text": "start the youtube app", "label": "open_youtube"},
+  {"text": "open youtube quickly", "label": "open_youtube"},
+  {"text": "open youtube right now", "label": "open_youtube"},
+  {"text": "open youtube please", "label": "open_youtube"},
+  {"text": "open youtube for me", "label": "open_youtube"},
+  {"text": "open youtube immediately", "label": "open_youtube"},
+  {"text": "open youtube window", "label": "open_youtube"},
+  {"text": "play something on youtube", "label": "open_youtube"},
+  {"text": "open youtube videos", "label": "open_youtube"},
+  {"text": "open youtube channel", "label": "open_youtube"},
+  {"text": "open youtube homepage", "label": "open_youtube"},
+  {"text": "open youtube site", "label": "open_youtube"}
+
+  ],
+  [
+
+
+  {"text": "open maps", "label": "open_maps"},
+  {"text": "please open maps", "label": "open_maps"},
+  {"text": "launch maps", "label": "open_maps"},
+  {"text": "start maps", "label": "open_maps"},
+  {"text": "run maps", "label": "open_maps"},
+  {"text": "open the maps app", "label": "open_maps"},
+  {"text": "open maps application", "label": "open_maps"},
+  {"text": "open maps program", "label": "open_maps"},
+  {"text": "open maps software", "label": "open_maps"},
+  {"text": "open maps on my computer", "label": "open_maps"},
+  {"text": "open maps on windows", "label": "open_maps"},
+  {"text": "bring up maps", "label": "open_maps"},
+  {"text": "fire up maps", "label": "open_maps"},
+  {"text": "get maps running", "label": "open_maps"},
+  {"text": "start the maps app", "label": "open_maps"},
+  {"text": "open maps quickly", "label": "open_maps"},
+  {"text": "open maps right now", "label": "open_maps"},
+  {"text": "open maps please", "label": "open_maps"},
+  {"text": "open maps for me", "label": "open_maps"},
+  {"text": "open maps immediately", "label": "open_maps"},
+  {"text": "open maps window", "label": "open_maps"},
+  {"text": "show me directions", "label": "open_maps"},
+  {"text": "open maps navigation", "label": "open_maps"},
+  {"text": "open maps route", "label": "open_maps"},
+  {"text": "open maps location", "label": "open_maps"}
+  ],
+  [
+
+  {"text": "open calendar", "label": "open_calendar"},
+  {"text": "please open calendar", "label": "open_calendar"},
+  {"text": "launch calendar", "label": "open_calendar"},
+  {"text": "start calendar", "label": "open_calendar"},
+  {"text": "run calendar", "label": "open_calendar"},
+  {"text": "open the calendar app", "label": "open_calendar"},
+  {"text": "open calendar application", "label": "open_calendar"},
+  {"text": "open calendar program", "label": "open_calendar"},
+  {"text": "open calendar software", "label": "open_calendar"},
+  {"text": "open calendar on my computer", "label": "open_calendar"},
+  {"text": "open calendar on windows", "label": "open_calendar"},
+  {"text": "bring up calendar", "label": "open_calendar"},
+  {"text": "fire up calendar", "label": "open_calendar"},
+  {"text": "get calendar running", "label": "open_calendar"},
+  {"text": "start the calendar app", "label": "open_calendar"},
+  {"text": "open calendar quickly", "label": "open_calendar"},
+  {"text": "open calendar right now", "label": "open_calendar"},
+  {"text": "open calendar please", "label": "open_calendar"},
+  {"text": "open calendar for me", "label": "open_calendar"},
+  {"text": "open calendar immediately", "label": "open_calendar"},
+  {"text": "open calendar window", "label": "open_calendar"},
+  {"text": "schedule a meeting", "label": "open_calendar"},
+  {"text": "add an event to calendar", "label": "open_calendar"},
+  {"text": "show me my calendar", "label": "open_calendar"},
+  {"text": "open calendar events", "label": "open_calendar"},
+  {"text": "open calendar appointments", "label": "open_calendar"}
+  ],
+  [
+
+  {"text": "tell me the time", "label": "tell_time"},
+  {"text": "what time is it", "label": "tell_time"},
+  {"text": "what is the time now", "label": "tell_time"},
+  {"text": "please tell me the time", "label": "tell_time"},
+  {"text": "can you tell me the time", "label": "tell_time"},
+  {"text": "give me the time", "label": "tell_time"},
+  {"text": "show me the current time", "label": "tell_time"},
+  {"text": "what’s the current time", "label": "tell_time"},
+  {"text": "what time do we have now", "label": "tell_time"},
+  {"text": "current time please", "label": "tell_time"},
+  {"text": "time right now", "label": "tell_time"},
+  {"text": "what’s the exact time", "label": "tell_time"},
+  {"text": "tell me the exact time", "label": "tell_time"},
+  {"text": "can you give me the time", "label": "tell_time"},
+  {"text": "time check", "label": "tell_time"},
+  {"text": "check the time", "label": "tell_time"},
+  {"text": "show me the time", "label": "tell_time"},
+  {"text": "what’s the time currently", "label": "tell_time"},
+  {"text": "tell me the present time", "label": "tell_time"},
+  {"text": "what’s the time right now", "label": "tell_time"},
+  {"text": "please check the time", "label": "tell_time"},
+  {"text": "can you check the time", "label": "tell_time"},
+  {"text": "what’s the local time", "label": "tell_time"},
+  {"text": "what’s the time at the moment", "label": "tell_time"},
+  {"text": "give me the current time", "label": "tell_time"}
+  ],
+  [
+
+  {"text": "tell me the date", "label": "tell_date"},
+  {"text": "what is today's date", "label": "tell_date"},
+  {"text": "give me the date", "label": "tell_date"},
+  {"text": "please tell me the date", "label": "tell_date"},
+  {"text": "can you tell me the date", "label": "tell_date"},
+  {"text": "show me the date", "label": "tell_date"},
+  {"text": "what date is it today", "label": "tell_date"},
+  {"text": "what’s the date now", "label": "tell_date"},
+  {"text": "current date please", "label": "tell_date"},
+  {"text": "date right now", "label": "tell_date"},
+  {"text": "what’s the exact date", "label": "tell_date"},
+  {"text": "tell me the exact date", "label": "tell_date"},
+  {"text": "can you give me the date", "label": "tell_date"},
+  {"text": "date check", "label": "tell_date"},
+  {"text": "check the date", "label": "tell_date"},
+  {"text": "what’s the date currently", "label": "tell_date"},
+  {"text": "tell me the present date", "label": "tell_date"},
+  {"text": "what’s the date right now", "label": "tell_date"},
+  {"text": "please check the date", "label": "tell_date"},
+  {"text": "can you check the date", "label": "tell_date"},
+  {"text": "what’s today’s date", "label": "tell_date"},
+  {"text": "give me today’s date", "label": "tell_date"},
+  {"text": "show me today’s date", "label": "tell_date"},
+  {"text": "what day and date is it", "label": "tell_date"},
+  {"text": "tell me the calendar date", "label": "tell_date"}
+  ],
+  [
+
+
+  {"text": "set an alarm for 7 am", "label": "set_alarm"},
+  {"text": "wake me up at 6", "label": "set_alarm"},
+  {"text": "create an alarm at 5", "label": "set_alarm"},
+  {"text": "alarm for tomorrow morning", "label": "set_alarm"},
+  {"text": "set alarm for 8 o'clock", "label": "set_alarm"},
+  {"text": "please set an alarm", "label": "set_alarm"},
+  {"text": "make an alarm for 9 am", "label": "set_alarm"},
+  {"text": "schedule an alarm at 10", "label": "set_alarm"},
+  {"text": "add an alarm for 11 pm", "label": "set_alarm"},
+  {"text": "set alarm for midnight", "label": "set_alarm"},
+  {"text": "wake me up early with alarm", "label": "set_alarm"},
+  {"text": "alarm at 6 in the morning", "label": "set_alarm"},
+  {"text": "set alarm for tomorrow at 7", "label": "set_alarm"},
+  {"text": "remind me with an alarm at 4", "label": "set_alarm"},
+  {"text": "alarm for 5 am please", "label": "set_alarm"},
+  {"text": "set alarm quickly", "label": "set_alarm"},
+  {"text": "set alarm right now", "label": "set_alarm"},
+  {"text": "set alarm immediately", "label": "set_alarm"},
+  {"text": "set alarm for me", "label": "set_alarm"},
+  {"text": "start an alarm at 3 pm", "label": "set_alarm"},
+  {"text": "configure alarm for 2 pm", "label": "set_alarm"},
+  {"text": "turn on alarm for 6 am", "label": "set_alarm"},
+  {"text": "activate alarm at 9", "label": "set_alarm"},
+  {"text": "alarm for evening at 7 pm", "label": "set_alarm"},
+  {"text": "set alarm for the morning", "label": "set_alarm"}
+  ],
+  [
+
+
+  
+
+
+  {"text": "set a timer for 10 minutes", "label": "set_timer"},
+  {"text": "start a 5 minute timer", "label": "set_timer"},
+  {"text": "create a timer for 20 minutes", "label": "set_timer"},
+  {"text": "make a timer for 15 minutes", "label": "set_timer"},
+  {"text": "set timer for 30 seconds", "label": "set_timer"},
+  {"text": "please set a timer", "label": "set_timer"},
+  {"text": "start a countdown for 2 minutes", "label": "set_timer"},
+  {"text": "begin a timer for 1 hour", "label": "set_timer"},
+  {"text": "add a timer for 45 minutes", "label": "set_timer"},
+  {"text": "set timer quickly", "label": "set_timer"},
+  {"text": "set timer right now", "label": "set_timer"},
+  {"text": "set timer immediately", "label": "set_timer"},
+  {"text": "set timer for me", "label": "set_timer"},
+  {"text": "activate a timer for 3 minutes", "label": "set_timer"},
+  {"text": "turn on a timer for 10 minutes", "label": "set_timer"},
+  {"text": "configure a timer for 25 minutes", "label": "set_timer"},
+  {"text": "start the timer app", "label": "set_timer"},
+  {"text": "run a timer for 12 minutes", "label": "set_timer"},
+  {"text": "launch a timer for 8 minutes", "label": "set_timer"},
+  {"text": "open timer and set for 6 minutes", "label": "set_timer"},
+  {"text": "countdown 7 minutes", "label": "set_timer"},
+  {"text": "set a timer until 9 pm", "label": "set_timer"},
+  {"text": "set a timer for cooking", "label": "set_timer"},
+  {"text": "set a timer for exercise", "label": "set_timer"},
+  {"text": "set a timer for study session", "label": "set_timer"}
+  ],
+  [
+
+
+  {"text": "create a note", "label": "create_note"},
+  {"text": "write down groceries", "label": "create_note"},
+  {"text": "make a new note", "label": "create_note"},
+  {"text": "add a note", "label": "create_note"},
+  {"text": "please create a note", "label": "create_note"},
+  {"text": "open notes and write", "label": "create_note"},
+  {"text": "start a new note", "label": "create_note"},
+  {"text": "take a note", "label": "create_note"},
+  {"text": "note this down", "label": "create_note"},
+  {"text": "write a note for me", "label": "create_note"},
+  {"text": "make a note quickly", "label": "create_note"},
+  {"text": "create a note right now", "label": "create_note"},
+  {"text": "create a note immediately", "label": "create_note"},
+  {"text": "create a note for me", "label": "create_note"},
+  {"text": "add a quick note", "label": "create_note"},
+  {"text": "jot down a note", "label": "create_note"},
+  {"text": "record a note", "label": "create_note"},
+  {"text": "save a note", "label": "create_note"},
+  {"text": "make a reminder note", "label": "create_note"},
+  {"text": "create a personal note", "label": "create_note"},
+  {"text": "create a shopping list note", "label": "create_note"},
+  {"text": "create a study note", "label": "create_note"},
+  {"text": "create a work note", "label": "create_note"},
+  {"text": "create a note in app", "label": "create_note"},
+  {"text": "create a note entry", "label": "create_note"}
+  ],
+  [
+
+
+  {"text": "play music", "label": "play_music"},
+  {"text": "please play music", "label": "play_music"},
+  {"text": "start playing music", "label": "play_music"},
+  {"text": "turn on the music", "label": "play_music"},
+  {"text": "play some songs", "label": "play_music"},
+  {"text": "play a song", "label": "play_music"},
+  {"text": "play tunes", "label": "play_music"},
+  {"text": "play audio", "label": "play_music"},
+  {"text": "play background music", "label": "play_music"},
+  {"text": "play some tracks", "label": "play_music"},
+  {"text": "play my playlist", "label": "play_music"},
+  {"text": "play favorite songs", "label": "play_music"},
+  {"text": "play some melodies", "label": "play_music"},
+  {"text": "play some beats", "label": "play_music"},
+  {"text": "play some sound", "label": "play_music"},
+  {"text": "play music right now", "label": "play_music"},
+  {"text": "play music quickly", "label": "play_music"},
+  {"text": "play music immediately", "label": "play_music"},
+  {"text": "play music for me", "label": "play_music"},
+  {"text": "play music please", "label": "play_music"},
+  {"text": "start the music app", "label": "play_music"},
+  {"text": "launch music player", "label": "play_music"},
+  {"text": "open music and play", "label": "play_music"},
+  {"text": "play some tracks for me", "label": "play_music"},
+  {"text": "play songs now", "label": "play_music"}
+  ],
+  [
+
+
+
+  {"text": "stop the music", "label": "stop_music"},
+  {"text": "please stop the music", "label": "stop_music"},
+  {"text": "turn off the music", "label": "stop_music"},
+  {"text": "end the music", "label": "stop_music"},
+  {"text": "stop playing music", "label": "stop_music"},
+  {"text": "halt the music", "label": "stop_music"},
+  {"text": "stop the song", "label": "stop_music"},
+  {"text": "stop audio playback", "label": "stop_music"},
+  {"text": "stop the track", "label": "stop_music"},
+  {"text": "stop the tunes", "label": "stop_music"},
+  {"text": "stop the sound", "label": "stop_music"},
+  {"text": "stop the playlist", "label": "stop_music"},
+  {"text": "stop the beats", "label": "stop_music"},
+  {"text": "stop the melody", "label": "stop_music"},
+  {"text": "stop the background music", "label": "stop_music"},
+  {"text": "stop music right now", "label": "stop_music"},
+  {"text": "stop music quickly", "label": "stop_music"},
+  {"text": "stop music immediately", "label": "stop_music"},
+  {"text": "stop music for me", "label": "stop_music"},
+  {"text": "stop music please", "label": "stop_music"},
+  {"text": "end the song now", "label": "stop_music"},
+  {"text": "turn off audio", "label": "stop_music"},
+  {"text": "stop the player", "label": "stop_music"},
+  {"text": "close the music", "label": "stop_music"},
+  {"text": "stop the playback", "label": "stop_music"}
+  ],
+  [
+
+
+  {"text": "play the next song", "label": "next_song"},
+  {"text": "skip to the next track", "label": "next_song"},
+  {"text": "go to the next song", "label": "next_song"},
+  {"text": "next song please", "label": "next_song"},
+  {"text": "move to the next track", "label": "next_song"},
+  {"text": "play another song", "label": "next_song"},
+  {"text": "skip this song", "label": "next_song"},
+  {"text": "change to the next song", "label": "next_song"},
+  {"text": "switch to the next track", "label": "next_song"},
+  {"text": "play the following song", "label": "next_song"},
+  {"text": "play the next track", "label": "next_song"},
+  {"text": "go forward to next song", "label": "next_song"},
+  {"text": "play next music", "label": "next_song"},
+  {"text": "skip forward to next song", "label": "next_song"},
+  {"text": "play the upcoming track", "label": "next_song"},
+  {"text": "queue the next song", "label": "next_song"},
+  {"text": "advance to the next track", "label": "next_song"},
+  {"text": "play the next tune", "label": "next_song"},
+  {"text": "move forward to next song", "label": "next_song"},
+  {"text": "play the next audio", "label": "next_song"},
+  {"text": "skip ahead to next song", "label": "next_song"},
+  {"text": "play the next melody", "label": "next_song"},
+  {"text": "go to the following track", "label": "next_song"},
+  {"text": "play the next beat", "label": "next_song"},
+  {"text": "next track now", "label": "next_song"}
+  ],
+  [
+
+
+  {"text": "tell me a joke", "label": "tell_joke"},
+  {"text": "please tell me a joke", "label": "tell_joke"},
+  {"text": "say a joke", "label": "tell_joke"},
+  {"text": "make me laugh", "label": "tell_joke"},
+  {"text": "crack a joke", "label": "tell_joke"},
+  {"text": "give me a funny joke", "label": "tell_joke"},
+  {"text": "share a joke", "label": "tell_joke"},
+  {"text": "tell me something funny", "label": "tell_joke"},
+  {"text": "say something hilarious", "label": "tell_joke"},
+  {"text": "tell me a funny story", "label": "tell_joke"},
+  {"text": "make a joke", "label": "tell_joke"},
+  {"text": "tell me a silly joke", "label": "tell_joke"},
+  {"text": "tell me a short joke", "label": "tell_joke"},
+  {"text": "tell me a quick joke", "label": "tell_joke"},
+  {"text": "tell me a random joke", "label": "tell_joke"},
+  {"text": "tell me a dad joke", "label": "tell_joke"},
+  {"text": "tell me a pun", "label": "tell_joke"},
+  {"text": "say something amusing", "label": "tell_joke"},
+  {"text": "make me smile with a joke", "label": "tell_joke"},
+  {"text": "tell me a witty joke", "label": "tell_joke"},
+  {"text": "tell me a clever joke", "label": "tell_joke"},
+  {"text": "tell me a corny joke", "label": "tell_joke"},
+  {"text": "tell me a lighthearted joke", "label": "tell_joke"},
+  {"text": "tell me a joke right now", "label": "tell_joke"},
+  {"text": "tell me a joke please", "label": "tell_joke"}
+  ],
+  [
+
+
+  {"text": "tell me a quote", "label": "tell_quote"},
+  {"text": "please share a quote", "label": "tell_quote"},
+  {"text": "give me a quote", "label": "tell_quote"},
+  {"text": "say a quote", "label": "tell_quote"},
+  {"text": "share an inspirational quote", "label": "tell_quote"},
+  {"text": "tell me a motivational quote", "label": "tell_quote"},
+  {"text": "give me a famous quote", "label": "tell_quote"},
+  {"text": "tell me a life quote", "label": "tell_quote"},
+  {"text": "share a wise quote", "label": "tell_quote"},
+  {"text": "tell me a positive quote", "label": "tell_quote"},
+  {"text": "say something inspirational", "label": "tell_quote"},
+  {"text": "give me a thoughtful quote", "label": "tell_quote"},
+  {"text": "tell me a quote right now", "label": "tell_quote"},
+  {"text": "tell me a quote please", "label": "tell_quote"},
+  {"text": "share a quote with me", "label": "tell_quote"},
+  {"text": "tell me a quote for today", "label": "tell_quote"},
+  {"text": "give me a quote quickly", "label": "tell_quote"},
+  {"text": "tell me a quote immediately", "label": "tell_quote"},
+  {"text": "tell me a quote for motivation", "label": "tell_quote"},
+  {"text": "tell me a quote about success", "label": "tell_quote"},
+  {"text": "tell me a quote about happiness", "label": "tell_quote"},
+  {"text": "tell me a quote about life", "label": "tell_quote"},
+  {"text": "tell me a quote about love", "label": "tell_quote"},
+  {"text": "tell me a quote about strength", "label": "tell_quote"},
+  {"text": "tell me a quote about hope", "label": "tell_quote"}
+  ],
+  [
+
+  {"text": "translate this word", "label": "translate_word"},
+  {"text": "please translate the word", "label": "translate_word"},
+  {"text": "can you translate a word", "label": "translate_word"},
+  {"text": "translate word into English", "label": "translate_word"},
+  {"text": "translate word into Telugu", "label": "translate_word"},
+  {"text": "translate word into Hindi", "label": "translate_word"},
+  {"text": "give me translation of word", "label": "translate_word"},
+  {"text": "what does this word mean", "label": "translate_word"},
+  {"text": "show me meaning of word", "label": "translate_word"},
+  {"text": "convert word to another language", "label": "translate_word"},
+  {"text": "translate word quickly", "label": "translate_word"},
+  {"text": "translate word right now", "label": "translate_word"},
+  {"text": "translate word immediately", "label": "translate_word"},
+  {"text": "translate word for me", "label": "translate_word"},
+  {"text": "translate word please", "label": "translate_word"},
+  {"text": "translate word into Spanish", "label": "translate_word"},
+  {"text": "translate word into French", "label": "translate_word"},
+  {"text": "translate word into German", "label": "translate_word"},
+  {"text": "translate word into Tamil", "label": "translate_word"},
+  {"text": "translate word into Kannada", "label": "translate_word"},
+  {"text": "translate word into Malayalam", "label": "translate_word"},
+  {"text": "translate word into Japanese", "label": "translate_word"},
+  {"text": "translate word into Chinese", "label": "translate_word"},
+  {"text": "translate word into Italian", "label": "translate_word"},
+  {"text": "translate word into Russian", "label": "translate_word"}
+  ],
+  [
+
+
+  {"text": "what's the weather", "label": "weather_info"},
+  {"text": "tell me the weather", "label": "weather_info"},
+  {"text": "please give me the weather", "label": "weather_info"},
+  {"text": "how's the weather today", "label": "weather_info"},
+  {"text": "what's the weather like now", "label": "weather_info"},
+  {"text": "current weather please", "label": "weather_info"},
+  {"text": "show me the weather", "label": "weather_info"},
+  {"text": "weather update", "label": "weather_info"},
+  {"text": "give me the weather report", "label": "weather_info"},
+  {"text": "check the weather", "label": "weather_info"},
+  {"text": "weather forecast", "label": "weather_info"},
+  {"text": "what's the temperature outside", "label": "weather_info"},
+  {"text": "tell me the temperature", "label": "weather_info"},
+  {"text": "how hot is it today", "label": "weather_info"},
+  {"text": "is it cold outside", "label": "weather_info"},
+  {"text": "is it raining", "label": "weather_info"},
+  {"text": "is it sunny today", "label": "weather_info"},
+  {"text": "is it cloudy now", "label": "weather_info"},
+  {"text": "weather conditions", "label": "weather_info"},
+  {"text": "what's the climate like", "label": "weather_info"},
+  {"text": "give me today's weather", "label": "weather_info"},
+  {"text": "tell me tomorrow's weather", "label": "weather_info"},
+  {"text": "weather right now", "label": "weather_info"},
+  {"text": "show me weather details", "label": "weather_info"},
+  {"text": "weather info please", "label": "weather_info"}
+  ],
+  [
+
+  {"text": "show me the news", "label": "get_news"},
+  {"text": "what are the latest headlines", "label": "get_news"},
+  {"text": "give me today's news", "label": "get_news"},
+  {"text": "please show me the news", "label": "get_news"},
+  {"text": "news update", "label": "get_news"},
+  {"text": "latest news headlines", "label": "get_news"},
+  {"text": "current news", "label": "get_news"},
+  {"text": "breaking news", "label": "get_news"},
+  {"text": "news report", "label": "get_news"},
+  {"text": "show me world news", "label": "get_news"},
+  {"text": "show me local news", "label": "get_news"},
+  {"text": "news highlights", "label": "get_news"},
+  {"text": "top news stories", "label": "get_news"},
+  {"text": "news briefing", "label": "get_news"},
+  {"text": "daily news update", "label": "get_news"},
+  {"text": "news right now", "label": "get_news"},
+  {"text": "show me news details", "label": "get_news"},
+  {"text": "news info please", "label": "get_news"},
+  {"text": "give me breaking news", "label": "get_news"},
+  {"text": "what's happening in the world", "label": "get_news"},
+  {"text": "latest updates in news", "label": "get_news"},
+  {"text": "current affairs news", "label": "get_news"}
+  ],
+  [
+
+
+
+
+
+  {"text": "book a flight", "label": "book_flight"},
+  {"text": "please book a flight", "label": "book_flight"},
+  {"text": "help me book a flight", "label": "book_flight"},
+  {"text": "I want to book a flight", "label": "book_flight"},
+  {"text": "can you book a flight", "label": "book_flight"},
+  {"text": "arrange a flight for me", "label": "book_flight"},
+  {"text": "reserve a flight ticket", "label": "book_flight"},
+  {"text": "get me a flight booking", "label": "book_flight"},
+  {"text": "schedule a flight", "label": "book_flight"},
+  {"text": "set up a flight reservation", "label": "book_flight"},
+  {"text": "book a plane ticket", "label": "book_flight"},
+  {"text": "book an airline ticket", "label": "book_flight"},
+  {"text": "book a ticket for travel", "label": "book_flight"},
+  {"text": "book a ticket on flight", "label": "book_flight"},
+  {"text": "book a ticket right now", "label": "book_flight"},
+  {"text": "book a flight quickly", "label": "book_flight"},
+  {"text": "book a flight immediately", "label": "book_flight"},
+  {"text": "book a flight for me", "label": "book_flight"},
+  {"text": "book a flight please", "label": "book_flight"},
+  {"text": "book a flight ticket", "label": "book_flight"},
+  {"text": "book a domestic flight", "label": "book_flight"},
+  {"text": "book an international flight", "label": "book_flight"},
+  {"text": "book a flight to Delhi", "label": "book_flight"},
+  {"text": "book a flight to Mumbai", "label": "book_flight"},
+  {"text": "book a flight for tomorrow", "label": "book_flight"}
+  ],
+  [
+
+
+
+  
+
+
+  {"text": "hello", "label": "greet"},
+  {"text": "hi", "label": "greet"},
+  {"text": "hey there", "label": "greet"},
+  {"text": "good morning", "label": "greet"},
+  {"text": "good afternoon", "label": "greet"},
+  {"text": "good evening", "label": "greet"},
+  {"text": "hiya", "label": "greet"},
+  {"text": "yo", "label": "greet"},
+  {"text": "hey", "label": "greet"},
+  {"text": "what’s up", "label": "greet"},
+  {"text": "howdy", "label": "greet"},
+  {"text": "hi there", "label": "greet"},
+  {"text": "hello there", "label": "greet"},
+  {"text": "hey buddy", "label": "greet"},
+  {"text": "hey friend", "label": "greet"},
+  {"text": "hi friend", "label": "greet"},
+  {"text": "hey assistant", "label": "greet"},
+  {"text": "hello assistant", "label": "greet"},
+  {"text": "hi copilot", "label": "greet"},
+  {"text": "hey copilot", "label": "greet"}
+  ],
+  [
+
+  {"text": "calculate 2+2", "label": "calculate_math"}, 
+  {"text": "compute 45 minus 12", "label": "calculate_math"}, 
+  {"text": "solve 10 divided by 5", "label": "calculate_math"}, 
+  {"text": "evaluate 3 times 7", "label": "calculate_math"}, 
+  {"text": "do the math for 100-45", "label": "calculate_math"}, 
+  {"text": "what is 2 to the power of 10", "label": "calculate_math"}, 
+  {"text": "find square root of 81", "label": "calculate_math"}, 
+  {"text": "calculate pi * 2", "label": "calculate_math"}
+  ],
+  [
+  
+
+  {"text": "open settings", "label": "open_settings"},
+  {"text": "launch control panel", "label": "open_settings"},
+  {"text": "show me system settings", "label": "open_settings"},
+  {"text": "adjust my computer settings", "label": "open_settings"},
+
+  {"text": "send an email", "label": "send_email"},
+  {"text": "compose a new email", "label": "send_email"},
+  {"text": "write an email to my friend", "label": "send_email"},
+  {"text": "email someone", "label": "send_email"},
+
+  {"text": "create a reminder", "label": "create_reminder"},
+  {"text": "remind me at 5 pm", "label": "create_reminder"},
+  {"text": "set a reminder for tomorrow", "label": "create_reminder"},
+  {"text": "make a reminder note", "label": "create_reminder"}
+  ],
+  [
+  
+  
+  
+   
+  
+  {"text": "close notepad", "label": "close_notepad"}, 
+  {"text": "exit notepad", "label": "close_notepad"}, 
+  {"text": "shut notepad", "label": "close_notepad"}, 
+  {"text": "terminate notepad", "label": "close_notepad"}, 
+  {"text": "stop notepad", "label": "close_notepad"},
+
+
+  {"text": "close calculator", "label": "close_calculator"}, 
+  {"text": "exit calculator", "label": "close_calculator"}, 
+  {"text": "shut calculator", "label": "close_calculator"}, 
+  {"text": "terminate calculator", "label": "close_calculator"}, 
+  {"text": "stop calculator", "label": "close_calculator"}
+  ],
+  [
+
+
+
+  {"text": "open spotify", "label": "open_spotify"},
+  {"text": "please open spotify", "label": "open_spotify"},
+  {"text": "launch spotify", "label": "open_spotify"},
+  {"text": "start spotify", "label": "open_spotify"},
+  {"text": "run spotify", "label": "open_spotify"},
+  {"text": "open the spotify app", "label": "open_spotify"},
+  {"text": "open spotify application", "label": "open_spotify"},
+  {"text": "open spotify program", "label": "open_spotify"},
+  {"text": "open spotify software", "label": "open_spotify"},
+  {"text": "open spotify on my computer", "label": "open_spotify"},
+  {"text": "open spotify on windows", "label": "open_spotify"},
+  {"text": "bring up spotify", "label": "open_spotify"},
+  {"text": "fire up spotify", "label": "open_spotify"},
+  {"text": "get spotify running", "label": "open_spotify"},
+  {"text": "start the spotify app", "label": "open_spotify"},
+  {"text": "open spotify quickly", "label": "open_spotify"},
+  {"text": "open spotify right now", "label": "open_spotify"},
+  {"text": "open spotify please", "label": "open_spotify"},
+  {"text": "open spotify for me", "label": "open_spotify"},
+  {"text": "open spotify immediately", "label": "open_spotify"},
+  {"text": "open spotify window", "label": "open_spotify"},
+  {"text": "play music on spotify", "label": "open_spotify"},
+  {"text": "open spotify player", "label": "open_spotify"},
+  {"text": "launch the spotify music app", "label": "open_spotify"}
+  ],
+  [
+
+  {"text": "close spotify", "label": "close_spotify"},
+  {"text": "exit spotify", "label": "close_spotify"},
+  {"text": "shut spotify", "label": "close_spotify"},
+  {"text": "terminate spotify", "label": "close_spotify"},
+  {"text": "stop spotify", "label": "close_spotify"},
+  {"text": "close the spotify app", "label": "close_spotify"},
+  {"text": "close spotify application", "label": "close_spotify"},
+  {"text": "close spotify program", "label": "close_spotify"},
+  {"text": "close spotify software", "label": "close_spotify"},
+  {"text": "close spotify on my computer", "label": "close_spotify"},
+  {"text": "close spotify on windows", "label": "close_spotify"},
+  {"text": "end spotify", "label": "close_spotify"},
+  {"text": "kill spotify", "label": "close_spotify"},
+  {"text": "stop the spotify app", "label": "close_spotify"},
+  {"text": "turn off spotify", "label": "close_spotify"},
+  {"text": "close spotify player", "label": "close_spotify"},
+  {"text": "close spotify quickly", "label": "close_spotify"},
+  {"text": "close spotify right now", "label": "close_spotify"},
+  {"text": "close spotify please", "label": "close_spotify"},
+  {"text": "close spotify for me", "label": "close_spotify"}
+  ],
+  [
+
+
+  {"text": "close youtube", "label": "close_youtube"},
+  {"text": "exit youtube", "label": "close_youtube"},
+  {"text": "shut youtube", "label": "close_youtube"},
+  {"text": "terminate youtube", "label": "close_youtube"},
+  {"text": "stop youtube", "label": "close_youtube"},
+  {"text": "close the youtube app", "label": "close_youtube"},
+  {"text": "close youtube application", "label": "close_youtube"},
+  {"text": "close youtube program", "label": "close_youtube"},
+  {"text": "close youtube software", "label": "close_youtube"},
+  {"text": "close youtube on my computer", "label": "close_youtube"},
+  {"text": "close youtube on windows", "label": "close_youtube"},
+  {"text": "end youtube", "label": "close_youtube"},
+  {"text": "kill youtube", "label": "close_youtube"},
+  {"text": "stop the youtube app", "label": "close_youtube"},
+  {"text": "turn off youtube", "label": "close_youtube"},
+  {"text": "close youtube player", "label": "close_youtube"},
+  {"text": "close youtube quickly", "label": "close_youtube"},
+  {"text": "close youtube right now", "label": "close_youtube"},
+  {"text": "close youtube please", "label": "close_youtube"},
+  {"text": "close youtube for me", "label": "close_youtube"}
+  ],
+  [
+
+
+  
+  {"text": "close google", "label": "close_google"},
+  {"text": "exit google", "label": "close_google"},
+  {"text": "shut google", "label": "close_google"},
+  {"text": "terminate google", "label": "close_google"},
+  {"text": "stop google", "label": "close_google"},
+  {"text": "close the google app", "label": "close_google"},
+  {"text": "close google application", "label": "close_google"},
+  {"text": "close google program", "label": "close_google"},
+  {"text": "close google software", "label": "close_google"},
+  {"text": "close google on my computer", "label": "close_google"},
+  {"text": "close google on windows", "label": "close_google"},
+  {"text": "end google", "label": "close_google"},
+  {"text": "kill google", "label": "close_google"},
+  {"text": "stop the google app", "label": "close_google"},
+  {"text": "turn off google", "label": "close_google"},
+  {"text": "close google quickly", "label": "close_google"},
+  {"text": "close google right now", "label": "close_google"},
+  {"text": "close google please", "label": "close_google"},
+  {"text": "close google for me", "label": "close_google"}
+  ],
+  [
+
+
+  
+  {"text": "close gmail", "label": "close_gmail"},
+  {"text": "exit gmail", "label": "close_gmail"},
+  {"text": "shut gmail", "label": "close_gmail"},
+  {"text": "terminate gmail", "label": "close_gmail"},
+  {"text": "stop gmail", "label": "close_gmail"},
+  {"text": "close the gmail app", "label": "close_gmail"},
+  {"text": "close gmail application", "label": "close_gmail"},
+  {"text": "close gmail program", "label": "close_gmail"},
+  {"text": "close gmail software", "label": "close_gmail"},
+  {"text": "close gmail on my computer", "label": "close_gmail"},
+  {"text": "close gmail on windows", "label": "close_gmail"},
+  {"text": "end gmail", "label": "close_gmail"},
+  {"text": "kill gmail", "label": "close_gmail"},
+  {"text": "stop the gmail app", "label": "close_gmail"},
+  {"text": "turn off gmail", "label": "close_gmail"},
+  {"text": "close gmail quickly", "label": "close_gmail"},
+  {"text": "close gmail right now", "label": "close_gmail"},
+  {"text": "close gmail please", "label": "close_gmail"},
+  {"text": "close gmail for me", "label": "close_gmail"}
+  ],
+  [
+
+
+  
+  {"text": "close vscode", "label": "close_vscode"},
+  {"text": "exit vscode", "label": "close_vscode"},
+  {"text": "shut vscode", "label": "close_vscode"},
+  {"text": "terminate vscode", "label": "close_vscode"},
+  {"text": "stop vscode", "label": "close_vscode"},
+  {"text": "close visual studio code", "label": "close_vscode"},
+  {"text": "exit visual studio code", "label": "close_vscode"},
+  {"text": "shut visual studio code", "label": "close_vscode"},
+  {"text": "terminate visual studio code", "label": "close_vscode"},
+  {"text": "stop visual studio code", "label": "close_vscode"},
+  {"text": "close the vscode app", "label": "close_vscode"},
+  {"text": "close vscode application", "label": "close_vscode"},
+  {"text": "close vscode program", "label": "close_vscode"},
+  {"text": "close vscode software", "label": "close_vscode"},
+  {"text": "close vscode on my computer", "label": "close_vscode"},
+  {"text": "close vscode on windows", "label": "close_vscode"},
+  {"text": "end vscode", "label": "close_vscode"},
+  {"text": "kill vscode", "label": "close_vscode"},
+  {"text": "stop the vscode app", "label": "close_vscode"},
+  {"text": "turn off vscode", "label": "close_vscode"},
+  {"text": "close vscode quickly", "label": "close_vscode"},
+  {"text": "close vscode right now", "label": "close_vscode"},
+  {"text": "close vscode please", "label": "close_vscode"},
+  {"text": "close vscode for me", "label": "close_vscode"}
+  ],
+  [
+
+
+  
+  {"text": "close chrome", "label": "close_chrome"},
+  {"text": "exit chrome", "label": "close_chrome"},
+  {"text": "shut chrome", "label": "close_chrome"},
+  {"text": "terminate chrome", "label": "close_chrome"},
+  {"text": "stop chrome", "label": "close_chrome"},
+  {"text": "close the chrome browser", "label": "close_chrome"},
+  {"text": "close chrome application", "label": "close_chrome"},
+  {"text": "close chrome program", "label": "close_chrome"},
+  {"text": "close chrome software", "label": "close_chrome"},
+  {"text": "close chrome on my computer", "label": "close_chrome"},
+  {"text": "close chrome on windows", "label": "close_chrome"},
+  {"text": "end chrome", "label": "close_chrome"},
+  {"text": "kill chrome", "label": "close_chrome"},
+  {"text": "stop the chrome app", "label": "close_chrome"},
+  {"text": "turn off chrome", "label": "close_chrome"},
+  {"text": "close chrome quickly", "label": "close_chrome"},
+  {"text": "close chrome right now", "label": "close_chrome"},
+  {"text": "close chrome please", "label": "close_chrome"},
+  {"text": "close chrome for me", "label": "close_chrome"}
+  ],
+  [
+
+
+  
+  {"text": "close edge", "label": "close_edge"},
+  {"text": "exit edge", "label": "close_edge"},
+  {"text": "shut edge", "label": "close_edge"},
+  {"text": "terminate edge", "label": "close_edge"},
+  {"text": "stop edge", "label": "close_edge"},
+  {"text": "close the edge browser", "label": "close_edge"},
+  {"text": "close edge application", "label": "close_edge"},
+  {"text": "close edge program", "label": "close_edge"},
+  {"text": "close edge software", "label": "close_edge"},
+  {"text": "close edge on my computer", "label": "close_edge"},
+  {"text": "close edge on windows", "label": "close_edge"},
+  {"text": "end edge", "label": "close_edge"},
+  {"text": "kill edge", "label": "close_edge"},
+  {"text": "stop the edge app", "label": "close_edge"},
+  {"text": "turn off edge", "label": "close_edge"},
+  {"text": "close edge quickly", "label": "close_edge"},
+  {"text": "close edge right now", "label": "close_edge"},
+  {"text": "close edge please", "label": "close_edge"},
+  {"text": "close edge for me", "label": "close_edge"}
+  ],
+  [
+
+
+  
+  {"text": "close word", "label": "close_word"},
+  {"text": "exit word", "label": "close_word"},
+  {"text": "shut word", "label": "close_word"},
+  {"text": "terminate word", "label": "close_word"},
+  {"text": "stop word", "label": "close_word"},
+  {"text": "close microsoft word", "label": "close_word"},
+  {"text": "exit microsoft word", "label": "close_word"},
+  {"text": "shut microsoft word", "label": "close_word"},
+  {"text": "terminate microsoft word", "label": "close_word"},
+  {"text": "stop microsoft word", "label": "close_word"},
+  {"text": "close the word app", "label": "close_word"},
+  {"text": "close word application", "label": "close_word"},
+  {"text": "close word program", "label": "close_word"},
+  {"text": "close word software", "label": "close_word"},
+  {"text": "close word on my computer", "label": "close_word"},
+  {"text": "close word on windows", "label": "close_word"},
+  {"text": "end word", "label": "close_word"},
+  {"text": "kill word", "label": "close_word"},
+  {"text": "stop the word app", "label": "close_word"},
+  {"text": "turn off word", "label": "close_word"}
+  ],
+  [
+
+
+  
+  {"text": "close excel", "label": "close_excel"},
+  {"text": "exit excel", "label": "close_excel"},
+  {"text": "shut excel", "label": "close_excel"},
+  {"text": "terminate excel", "label": "close_excel"},
+  {"text": "stop excel", "label": "close_excel"},
+  {"text": "close microsoft excel", "label": "close_excel"},
+  {"text": "exit microsoft excel", "label": "close_excel"},
+  {"text": "shut microsoft excel", "label": "close_excel"},
+  {"text": "terminate microsoft excel", "label": "close_excel"},
+  {"text": "stop microsoft excel", "label": "close_excel"},
+  {"text": "close the excel app", "label": "close_excel"},
+  {"text": "close excel application", "label": "close_excel"},
+  {"text": "close excel program", "label": "close_excel"},
+  {"text": "close excel software", "label": "close_excel"},
+  {"text": "close excel on my computer", "label": "close_excel"},
+  {"text": "close excel on windows", "label": "close_excel"},
+  {"text": "end excel", "label": "close_excel"},
+  {"text": "kill excel", "label": "close_excel"},
+  {"text": "stop the excel app", "label": "close_excel"},
+  {"text": "turn off excel", "label": "close_excel"}
+  ],
+  [
+
+
+  
+  {"text": "close powerpoint", "label": "close_powerpoint"},
+  {"text": "exit powerpoint", "label": "close_powerpoint"},
+  {"text": "shut powerpoint", "label": "close_powerpoint"},
+  {"text": "terminate powerpoint", "label": "close_powerpoint"},
+  {"text": "stop powerpoint", "label": "close_powerpoint"},
+  {"text": "close microsoft powerpoint", "label": "close_powerpoint"},
+  {"text": "exit microsoft powerpoint", "label": "close_powerpoint"},
+  {"text": "shut microsoft powerpoint", "label": "close_powerpoint"},
+  {"text": "terminate microsoft powerpoint", "label": "close_powerpoint"},
+  {"text": "stop microsoft powerpoint", "label": "close_powerpoint"},
+  {"text": "close the powerpoint app", "label": "close_powerpoint"},
+  {"text": "close powerpoint application", "label": "close_powerpoint"},
+  {"text": "close powerpoint program", "label": "close_powerpoint"},
+  {"text": "close powerpoint software", "label": "close_powerpoint"},
+  {"text": "close powerpoint on my computer", "label": "close_powerpoint"},
+  {"text": "close powerpoint on windows", "label": "close_powerpoint"},
+  {"text": "end powerpoint", "label": "close_powerpoint"},
+  {"text": "kill powerpoint", "label": "close_powerpoint"},
+  {"text": "stop the powerpoint app", "label": "close_powerpoint"},
+  {"text": "turn off powerpoint", "label": "close_powerpoint"}
+  ],
+  [
+
+  {"text": "open edge", "label": "open_edge"}, {"text": "please open edge", "label": "open_edge"}, {"text": "launch edge", "label": "open_edge"}, {"text": "start edge", "label": "open_edge"}, {"text": "run edge", "label": "open_edge"}, {"text": "open the edge browser", "label": "open_edge"}, {"text": "open microsoft edge", "label": "open_edge"},
+  {"text": "open chrome", "label": "open_chrome"}, {"text": "please open chrome", "label": "open_chrome"}, {"text": "launch chrome", "label": "open_chrome"}, {"text": "start chrome", "label": "open_chrome"}, {"text": "run chrome", "label": "open_chrome"}, {"text": "open the chrome browser", "label": "open_chrome"}, {"text": "open google chrome", "label": "open_chrome"},
+  {"text": "open powerpoint", "label": "open_powerpoint"}, {"text": "please open powerpoint", "label": "open_powerpoint"}, {"text": "launch powerpoint", "label": "open_powerpoint"}, {"text": "start powerpoint", "label": "open_powerpoint"}, {"text": "run powerpoint", "label": "open_powerpoint"}, {"text": "open microsoft powerpoint", "label": "open_powerpoint"}, {"text": "open the powerpoint app", "label": "open_powerpoint"},
+  {"text": "open excel", "label": "open_excel"}, {"text": "please open excel", "label": "open_excel"}, {"text": "launch excel", "label": "open_excel"}, {"text": "start excel", "label": "open_excel"}, {"text": "run excel", "label": "open_excel"}, {"text": "open microsoft excel", "label": "open_excel"}, {"text": "open the excel app", "label": "open_excel"}
+  ],
+  [
+
+
+
+  
+  {"text": "open outlook", "label": "open_outlook"},
+  {"text": "please open outlook", "label": "open_outlook"},
+  {"text": "launch outlook", "label": "open_outlook"},
+  {"text": "start outlook", "label": "open_outlook"},
+  {"text": "run outlook", "label": "open_outlook"},
+  {"text": "open microsoft outlook", "label": "open_outlook"},
+  {"text": "open the outlook app", "label": "open_outlook"},
+
+  {"text": "close outlook", "label": "close_outlook"},
+  {"text": "exit outlook", "label": "close_outlook"},
+  {"text": "shut outlook", "label": "close_outlook"},
+  {"text": "terminate outlook", "label": "close_outlook"},
+  {"text": "stop outlook", "label": "close_outlook"},
+  {"text": "close microsoft outlook", "label": "close_outlook"},
+  {"text": "close the outlook app", "label": "close_outlook"}
+  ],
+  [
+
+
+  {"text": "open word", "label": "open_word"},
+  {"text": "please open word", "label": "open_word"},
+  {"text": "launch word", "label": "open_word"},
+  {"text": "start word", "label": "open_word"},
+  {"text": "run word", "label": "open_word"},
+  {"text": "open microsoft word", "label": "open_word"},
+  {"text": "open the word app", "label": "open_word"}
+  ],
+  [
+
+
+  
+  {"text": "open excel", "label": "open_excel"},
+  {"text": "please open excel", "label": "open_excel"},
+  {"text": "launch excel", "label": "open_excel"},
+  {"text": "start excel", "label": "open_excel"},
+  {"text": "run excel", "label": "open_excel"},
+  {"text": "open microsoft excel", "label": "open_excel"},
+  {"text": "open the excel app", "label": "open_excel"}
+  ],
+  [
+
+
+  
+  {"text": "open powerpoint", "label": "open_powerpoint"},
+  {"text": "please open powerpoint", "label": "open_powerpoint"},
+  {"text": "launch powerpoint", "label": "open_powerpoint"},
+  {"text": "start powerpoint", "label": "open_powerpoint"},
+  {"text": "run powerpoint", "label": "open_powerpoint"},
+  {"text": "open microsoft powerpoint", "label": "open_powerpoint"},
+  {"text": "open the powerpoint app", "label": "open_powerpoint"}
+  ],
+  [
+
+
+  
+  {"text": "open file explorer", "label": "open_file_explorer"},
+  {"text": "launch file explorer", "label": "open_file_explorer"},
+  {"text": "start file explorer", "label": "open_file_explorer"},
+  {"text": "show my files", "label": "open_file_explorer"},
+  {"text": "open windows explorer", "label": "open_file_explorer"},
+
+  {"text": "close file explorer", "label": "close_file_explorer"},
+  {"text": "exit file explorer", "label": "close_file_explorer"},
+  {"text": "shut file explorer", "label": "close_file_explorer"},
+  {"text": "terminate file explorer", "label": "close_file_explorer"},
+  {"text": "stop file explorer", "label": "close_file_explorer"}
+  ],
+  [
+
+  
+  {"text": "open task manager", "label": "open_task_manager"},
+  {"text": "launch task manager", "label": "open_task_manager"},
+  {"text": "start task manager", "label": "open_task_manager"},
+  {"text": "show running tasks", "label": "open_task_manager"},
+  {"text": "open windows task manager", "label": "open_task_manager"},
+
+  {"text": "close task manager", "label": "close_task_manager"},
+  {"text": "exit task manager", "label": "close_task_manager"},
+  {"text": "shut task manager", "label": "close_task_manager"},
+  {"text": "terminate task manager", "label": "close_task_manager"},
+  {"text": "stop task manager", "label": "close_task_manager"}
+  ],
+  [
+
+  {"text": "open control panel", "label": "open_control_panel"},
+  {"text": "open settings", "label": "open_settings"},
+  {"text": "launch windows settings", "label": "open_settings"},
+  {"text": "start settings", "label": "open_settings"},
+  {"text": "run control panel", "label": "open_control_panel"},
+
+  {"text": "close control panel", "label": "close_control_panel"},
+  {"text": "exit settings", "label": "close_settings"},
+  {"text": "shut settings", "label": "close_settings"},
+  {"text": "terminate settings", "label": "close_settings"},
+  {"text": "stop settings", "label": "close_settings"}
+  ],
+  [
+
+  
+  {"text": "open music player", "label": "open_music_player"},
+  {"text": "launch groove music", "label": "open_music_player"},
+  {"text": "start music player", "label": "open_music_player"},
+  {"text": "play songs", "label": "open_music_player"},
+  {"text": "open windows media player", "label": "open_music_player"},
+
+  {"text": "close music player", "label": "close_music_player"},
+  {"text": "exit groove music", "label": "close_music_player"},
+  {"text": "shut music player", "label": "close_music_player"},
+  {"text": "terminate music player", "label": "close_music_player"},
+  {"text": "stop music player", "label": "close_music_player"}
+  ],
+  [
+
+  
+  {"text": "open teams", "label": "open_teams"},
+  {"text": "launch microsoft teams", "label": "open_teams"},
+  {"text": "start teams", "label": "open_teams"},
+  {"text": "run teams", "label": "open_teams"},
+  {"text": "open the teams app", "label": "open_teams"},
+
+  {"text": "close teams", "label": "close_teams"},
+  {"text": "exit teams", "label": "close_teams"},
+  {"text": "shut teams", "label": "close_teams"},
+  {"text": "terminate teams", "label": "close_teams"},
+  {"text": "stop teams", "label": "close_teams"}
+  ],
+  [
+
+  
+  {"text": "open zoom", "label": "open_zoom"},
+  {"text": "launch zoom", "label": "open_zoom"},
+  {"text": "start zoom", "label": "open_zoom"},
+  {"text": "run zoom", "label": "open_zoom"},
+  {"text": "open the zoom app", "label": "open_zoom"},
+
+  {"text": "close zoom", "label": "close_zoom"},
+  {"text": "exit zoom", "label": "close_zoom"},
+  {"text": "shut zoom", "label": "close_zoom"},
+  {"text": "terminate zoom", "label": "close_zoom"},
+  {"text": "stop zoom", "label": "close_zoom"}
+  ],
+  [
+
+  
+  {"text": "open command prompt", "label": "open_cmd"},
+  {"text": "launch cmd", "label": "open_cmd"},
+  {"text": "start terminal", "label": "open_cmd"},
+  {"text": "run command prompt", "label": "open_cmd"},
+  {"text": "open windows terminal", "label": "open_cmd"},
+
+  {"text": "close command prompt", "label": "close_cmd"},
+  {"text": "exit cmd", "label": "close_cmd"},
+  {"text": "shut terminal", "label": "close_cmd"},
+  {"text": "terminate command prompt", "label": "close_cmd"},
+  {"text": "stop cmd", "label": "close_cmd"}
+  ],
+  [
+
+
+  
+  {"text": "open onedrive", "label": "open_onedrive"},
+  {"text": "launch onedrive", "label": "open_onedrive"},
+  {"text": "start onedrive", "label": "open_onedrive"},
+  {"text": "run onedrive", "label": "open_onedrive"},
+  {"text": "open the onedrive app", "label": "open_onedrive"},
+
+  {"text": "close onedrive", "label": "close_onedrive"},
+  {"text": "exit onedrive", "label": "close_onedrive"},
+  {"text": "shut onedrive", "label": "close_onedrive"},
+  {"text": "terminate onedrive", "label": "close_onedrive"},
+  {"text": "stop onedrive", "label": "close_onedrive"}
+  ],
+  [
+
+  
+  {"text": "open dropbox", "label": "open_dropbox"},
+  {"text": "launch dropbox", "label": "open_dropbox"},
+  {"text": "start dropbox", "label": "open_dropbox"},
+  {"text": "run dropbox", "label": "open_dropbox"},
+  {"text": "open the dropbox app", "label": "open_dropbox"},
+
+  {"text": "close dropbox", "label": "close_dropbox"},
+  {"text": "exit dropbox", "label": "close_dropbox"},
+  {"text": "shut dropbox", "label": "close_dropbox"},
+  {"text": "terminate dropbox", "label": "close_dropbox"},
+  {"text": "stop dropbox", "label": "close_dropbox"}
+  ],
+  [
+
+  
+  {"text": "restart computer", "label": "restart_computer"},
+  {"text": "please restart computer", "label": "restart_computer"},
+  {"text": "reboot computer", "label": "restart_computer"},
+  {"text": "restart my pc", "label": "restart_computer"},
+  {"text": "restart windows", "label": "restart_computer"},
+  {"text": "restart the system", "label": "restart_computer"},
+  {"text": "restart laptop", "label": "restart_computer"},
+  {"text": "reboot my system", "label": "restart_computer"}
+  ],
+  [
+
+  
+  {"text": "shutdown computer", "label": "shutdown_computer"},
+  {"text": "please shutdown computer", "label": "shutdown_computer"},
+  {"text": "turn off computer", "label": "shutdown_computer"},
+  {"text": "power off computer", "label": "shutdown_computer"},
+  {"text": "shutdown my pc", "label": "shutdown_computer"},
+  {"text": "shutdown windows", "label": "shutdown_computer"},
+  {"text": "shutdown the system", "label": "shutdown_computer"},
+  {"text": "turn off laptop", "label": "shutdown_computer"}
+  ],
+  [
+
+  
+  {"text": "lock screen", "label": "lock_screen"},
+  {"text": "please lock screen", "label": "lock_screen"},
+  {"text": "lock my computer", "label": "lock_screen"},
+  {"text": "lock windows", "label": "lock_screen"},
+  {"text": "lock the system", "label": "lock_screen"},
+  {"text": "secure my pc", "label": "lock_screen"},
+  {"text": "lock laptop", "label": "lock_screen"}
+  ],
+  [
+
+  
+  {"text": "log off computer", "label": "log_off"},
+  {"text": "please log off", "label": "log_off"},
+  {"text": "sign out", "label": "log_off"},
+  {"text": "log out of windows", "label": "log_off"},
+  {"text": "log off my pc", "label": "log_off"},
+  {"text": "end session", "label": "log_off"},
+  {"text": "log off laptop", "label": "log_off"}
+  ],
+  [
+
+
+  
+  {"text": "open facebook", "label": "open_facebook"},
+  {"text": "please open facebook", "label": "open_facebook"},
+  {"text": "launch facebook", "label": "open_facebook"},
+  {"text": "start facebook", "label": "open_facebook"},
+  {"text": "run facebook", "label": "open_facebook"},
+  {"text": "open the facebook app", "label": "open_facebook"},
+  {"text": "open facebook on browser", "label": "open_facebook"},
+
+  {"text": "close facebook", "label": "close_facebook"},
+  {"text": "exit facebook", "label": "close_facebook"},
+  {"text": "shut facebook", "label": "close_facebook"},
+  {"text": "terminate facebook", "label": "close_facebook"},
+  {"text": "stop facebook", "label": "close_facebook"},
+  {"text": "close the facebook app", "label": "close_facebook"},
+  {"text": "close facebook on browser", "label": "close_facebook"}
+],
+
+  [
+  {"text": "open twitter", "label": "open_twitter"},
+  {"text": "please open twitter", "label": "open_twitter"},
+  {"text": "launch twitter", "label": "open_twitter"},
+  {"text": "start twitter", "label": "open_twitter"},
+  {"text": "run twitter", "label": "open_twitter"},
+  {"text": "open the twitter app", "label": "open_twitter"},
+  {"text": "open x app", "label": "open_twitter"},
+
+  {"text": "close twitter", "label": "close_twitter"},
+  {"text": "exit twitter", "label": "close_twitter"},
+  {"text": "shut twitter", "label": "close_twitter"},
+  {"text": "terminate twitter", "label": "close_twitter"},
+  {"text": "stop twitter", "label": "close_twitter"},
+  {"text": "close the twitter app", "label": "close_twitter"},
+  {"text": "close x app", "label": "close_twitter"}
+],
+
+[
+  {"text": "open linkedin", "label": "open_linkedin"},
+  {"text": "please open linkedin", "label": "open_linkedin"},
+  {"text": "launch linkedin", "label": "open_linkedin"},
+  {"text": "start linkedin", "label": "open_linkedin"},
+  {"text": "run linkedin", "label": "open_linkedin"},
+  {"text": "open the linkedin app", "label": "open_linkedin"},
+  {"text": "open linkedin on browser", "label": "open_linkedin"},
+
+  {"text": "close linkedin", "label": "close_linkedin"},
+  {"text": "exit linkedin", "label": "close_linkedin"},
+  {"text": "shut linkedin", "label": "close_linkedin"},
+  {"text": "terminate linkedin", "label": "close_linkedin"},
+  {"text": "stop linkedin", "label": "close_linkedin"},
+  {"text": "close the linkedin app", "label": "close_linkedin"},
+  {"text": "close linkedin on browser", "label": "close_linkedin"}
+],
+
+[
+  {"text": "open whatsapp web", "label": "open_whatsapp"},
+  {"text": "please open whatsapp web", "label": "open_whatsapp"},
+  {"text": "launch whatsapp web", "label": "open_whatsapp"},
+  {"text": "start whatsapp web", "label": "open_whatsapp"},
+  {"text": "run whatsapp web", "label": "open_whatsapp"},
+  {"text": "open whatsapp in browser", "label": "open_whatsapp"},
+  {"text": "open whatsapp online", "label": "open_whatsapp"},
+
+  {"text": "close whatsapp web", "label": "close_whatsapp"},
+  {"text": "exit whatsapp web", "label": "close_whatsapp"},
+  {"text": "shut whatsapp web", "label": "close_whatsapp"},
+  {"text": "terminate whatsapp web", "label": "close_whatsapp"},
+  {"text": "stop whatsapp web", "label": "close_whatsapp"},
+  {"text": "close whatsapp in browser", "label": "close_whatsapp"},
+  {"text": "close whatsapp online", "label": "close_whatsapp"}
+],
+
+[
+  {"text": "open paint", "label": "open_paint"},
+  {"text": "please open paint", "label": "open_paint"},
+  {"text": "launch paint", "label": "open_paint"},
+  {"text": "start paint", "label": "open_paint"},
+  {"text": "run paint", "label": "open_paint"},
+  {"text": "open microsoft paint", "label": "open_paint"},
+  {"text": "open the paint app", "label": "open_paint"},
+
+  {"text": "close paint", "label": "close_paint"},
+  {"text": "exit paint", "label": "close_paint"},
+  {"text": "shut paint", "label": "close_paint"},
+  {"text": "terminate paint", "label": "close_paint"},
+  {"text": "stop paint", "label": "close_paint"},
+  {"text": "close microsoft paint", "label": "close_paint"},
+  {"text": "close the paint app", "label": "close_paint"}
+],
+
+[
+  {"text": "open snipping tool", "label": "open_snipping_tool"},
+  {"text": "please open snipping tool", "label": "open_snipping_tool"},
+  {"text": "launch snipping tool", "label": "open_snipping_tool"},
+  {"text": "start snipping tool", "label": "open_snipping_tool"},
+  {"text": "run snipping tool", "label": "open_snipping_tool"},
+  {"text": "open the snipping tool app", "label": "open_snipping_tool"},
+
+  {"text": "close snipping tool", "label": "close_snipping_tool"},
+  {"text": "exit snipping tool", "label": "close_snipping_tool"},
+  {"text": "shut snipping tool", "label": "close_snipping_tool"},
+  {"text": "terminate snipping tool", "label": "close_snipping_tool"},
+  {"text": "stop snipping tool", "label": "close_snipping_tool"},
+  {"text": "close the snipping tool app", "label": "close_snipping_tool"}
+],
+
+[
+  {"text": "open sticky notes", "label": "open_sticky_notes"},
+  {"text": "please open sticky notes", "label": "open_sticky_notes"},
+  {"text": "launch sticky notes", "label": "open_sticky_notes"},
+  {"text": "start sticky notes", "label": "open_sticky_notes"},
+  {"text": "run sticky notes", "label": "open_sticky_notes"},
+  {"text": "open the sticky notes app", "label": "open_sticky_notes"},
+
+  {"text": "close sticky notes", "label": "close_sticky_notes"},
+  {"text": "exit sticky notes", "label": "close_sticky_notes"},
+  {"text": "shut sticky notes", "label": "close_sticky_notes"},
+  {"text": "terminate sticky notes", "label": "close_sticky_notes"},
+  {"text": "stop sticky notes", "label": "close_sticky_notes"},
+  {"text": "close the sticky notes app", "label": "close_sticky_notes"}
+],
+
+[
+  {"text": "open steam", "label": "open_steam"},
+  {"text": "launch steam", "label": "open_steam"},
+  {"text": "start steam", "label": "open_steam"},
+  {"text": "run steam", "label": "open_steam"},
+  {"text": "open the steam app", "label": "open_steam"},
+
+  {"text": "close steam", "label": "close_steam"},
+  {"text": "exit steam", "label": "close_steam"},
+  {"text": "shut steam", "label": "close_steam"},
+  {"text": "terminate steam", "label": "close_steam"},
+  {"text": "stop steam", "label": "close_steam"}
+],
+
+[
+  {"text": "open adobe reader", "label": "open_adobe_reader"},
+  {"text": "launch adobe reader", "label": "open_adobe_reader"},
+  {"text": "start adobe reader", "label": "open_adobe_reader"},
+  {"text": "run adobe reader", "label": "open_adobe_reader"},
+  {"text": "open pdf reader", "label": "open_adobe_reader"},
+
+  {"text": "close adobe reader", "label": "close_adobe_reader"},
+  {"text": "exit adobe reader", "label": "close_adobe_reader"},
+  {"text": "shut adobe reader", "label": "close_adobe_reader"},
+  {"text": "terminate adobe reader", "label": "close_adobe_reader"},
+  {"text": "stop adobe reader", "label": "close_adobe_reader"}
+],
+
+[
+  {"text": "open photoshop", "label": "open_photoshop"},
+  {"text": "launch photoshop", "label": "open_photoshop"},
+  {"text": "start photoshop", "label": "open_photoshop"},
+  {"text": "run photoshop", "label": "open_photoshop"},
+  {"text": "open adobe photoshop", "label": "open_photoshop"},
+
+  {"text": "close photoshop", "label": "close_photoshop"},
+  {"text": "exit photoshop", "label": "close_photoshop"},
+  {"text": "shut photoshop", "label": "close_photoshop"},
+  {"text": "terminate photoshop", "label": "close_photoshop"},
+  {"text": "stop photoshop", "label": "close_photoshop"}
+],
+
+[
+  {"text": "open skype", "label": "open_skype"},
+  {"text": "launch skype", "label": "open_skype"},
+  {"text": "start skype", "label": "open_skype"},
+  {"text": "run skype", "label": "open_skype"},
+  {"text": "open the skype app", "label": "open_skype"},
+
+  {"text": "close skype", "label": "close_skype"},
+  {"text": "exit skype", "label": "close_skype"},
+  {"text": "shut skype", "label": "close_skype"},
+  {"text": "terminate skype", "label": "close_skype"},
+  {"text": "stop skype", "label": "close_skype"}
+],
+
+
+[
+  {"text": "open telegram", "label": "open_telegram"},
+  {"text": "please open telegram", "label": "open_telegram"},
+  {"text": "launch telegram", "label": "open_telegram"},
+  {"text": "start telegram", "label": "open_telegram"},
+  {"text": "run telegram", "label": "open_telegram"},
+  {"text": "open the telegram app", "label": "open_telegram"},
+  {"text": "open telegram on my computer", "label": "open_telegram"},
+
+  {"text": "close telegram", "label": "close_telegram"},
+  {"text": "exit telegram", "label": "close_telegram"},
+  {"text": "shut telegram", "label": "close_telegram"},
+  {"text": "terminate telegram", "label": "close_telegram"},
+  {"text": "stop telegram", "label": "close_telegram"},
+  {"text": "close the telegram app", "label": "close_telegram"},
+  {"text": "close telegram on my computer", "label": "close_telegram"}
+],
+
+[
+  {"text": "open discord", "label": "open_discord"},
+  {"text": "please open discord", "label": "open_discord"},
+  {"text": "launch discord", "label": "open_discord"},
+  {"text": "start discord", "label": "open_discord"},
+  {"text": "run discord", "label": "open_discord"},
+  {"text": "open the discord app", "label": "open_discord"},
+  {"text": "open discord on my computer", "label": "open_discord"},
+
+  {"text": "close discord", "label": "close_discord"},
+  {"text": "exit discord", "label": "close_discord"},
+  {"text": "shut discord", "label": "close_discord"},
+  {"text": "terminate discord", "label": "close_discord"},
+  {"text": "stop discord", "label": "close_discord"},
+  {"text": "close the discord app", "label": "close_discord"},
+  {"text": "close discord on my computer", "label": "close_discord"}
+],
+
+[
+  {"text": "open slack", "label": "open_slack"},
+  {"text": "please open slack", "label": "open_slack"},
+  {"text": "launch slack", "label": "open_slack"},
+  {"text": "start slack", "label": "open_slack"},
+  {"text": "run slack", "label": "open_slack"},
+  {"text": "open the slack app", "label": "open_slack"},
+  {"text": "open slack on my computer", "label": "open_slack"},
+
+  {"text": "close slack", "label": "close_slack"},
+  {"text": "exit slack", "label": "close_slack"},
+  {"text": "shut slack", "label": "close_slack"},
+  {"text": "terminate slack", "label": "close_slack"},
+  {"text": "stop slack", "label": "close_slack"},
+  {"text": "close the slack app", "label": "close_slack"},
+  {"text": "close slack on my computer", "label": "close_slack"}
+],
+
+[
+  {"text": "open device manager", "label": "open_device_manager"},
+  {"text": "launch device manager", "label": "open_device_manager"},
+  {"text": "start device manager", "label": "open_device_manager"},
+  {"text": "run device manager", "label": "open_device_manager"},
+  {"text": "open windows device manager", "label": "open_device_manager"},
+
+  {"text": "close device manager", "label": "close_device_manager"},
+  {"text": "exit device manager", "label": "close_device_manager"},
+  {"text": "shut device manager", "label": "close_device_manager"},
+  {"text": "terminate device manager", "label": "close_device_manager"},
+  {"text": "stop device manager", "label": "close_device_manager"}
+],
+
+[
+  {"text": "open registry editor", "label": "open_registry_editor"},
+  {"text": "launch registry editor", "label": "open_registry_editor"},
+  {"text": "start registry editor", "label": "open_registry_editor"},
+  {"text": "run registry editor", "label": "open_registry_editor"},
+  {"text": "open regedit", "label": "open_registry_editor"},
+
+  {"text": "close registry editor", "label": "close_registry_editor"},
+  {"text": "exit registry editor", "label": "close_registry_editor"},
+  {"text": "shut registry editor", "label": "close_registry_editor"},
+  {"text": "terminate registry editor", "label": "close_registry_editor"},
+  {"text": "stop registry editor", "label": "close_registry_editor"}
+],
+
+[
+  {"text": "open git bash", "label": "open_gitbash"},
+  {"text": "launch git bash", "label": "open_gitbash"},
+  {"text": "start git bash", "label": "open_gitbash"},
+  {"text": "run git bash", "label": "open_gitbash"},
+  {"text": "open the git bash terminal", "label": "open_gitbash"},
+
+  {"text": "close git bash", "label": "close_gitbash"},
+  {"text": "exit git bash", "label": "close_gitbash"},
+  {"text": "shut git bash", "label": "close_gitbash"},
+  {"text": "terminate git bash", "label": "close_gitbash"},
+  {"text": "stop git bash", "label": "close_gitbash"}
+],
+
+[
+  {"text": "open evernote", "label": "open_evernote"},
+  {"text": "launch evernote", "label": "open_evernote"},
+  {"text": "start evernote", "label": "open_evernote"},
+  {"text": "run evernote", "label": "open_evernote"},
+  {"text": "open the evernote app", "label": "open_evernote"},
+
+  {"text": "close evernote", "label": "close_evernote"},
+  {"text": "exit evernote", "label": "close_evernote"},
+  {"text": "shut evernote", "label": "close_evernote"},
+  {"text": "terminate evernote", "label": "close_evernote"},
+  {"text": "stop evernote", "label": "close_evernote"}
+],
+
+[
+  {"text": "open windows defender", "label": "open_defender"},
+  {"text": "launch windows defender", "label": "open_defender"},
+  {"text": "start windows defender", "label": "open_defender"},
+  {"text": "run windows defender", "label": "open_defender"},
+  {"text": "open the defender app", "label": "open_defender"},
+
+  {"text": "close windows defender", "label": "close_defender"},
+  {"text": "exit windows defender", "label": "close_defender"},
+  {"text": "shut windows defender", "label": "close_defender"},
+  {"text": "terminate windows defender", "label": "close_defender"},
+  {"text": "stop windows defender", "label": "close_defender"}
+],
+
+[
+  {"text": "open antivirus", "label": "open_antivirus"},
+  {"text": "launch antivirus", "label": "open_antivirus"},
+  {"text": "start antivirus", "label": "open_antivirus"},
+  {"text": "run antivirus", "label": "open_antivirus"},
+  {"text": "open security software", "label": "open_antivirus"},
+
+  {"text": "close antivirus", "label": "close_antivirus"},
+  {"text": "exit antivirus", "label": "close_antivirus"},
+  {"text": "shut antivirus", "label": "close_antivirus"},
+  {"text": "terminate antivirus", "label": "close_antivirus"},
+  {"text": "stop antivirus", "label": "close_antivirus"}
+],
+
+[
+  {"text": "open netflix", "label": "open_netflix"},
+  {"text": "launch netflix", "label": "open_netflix"},
+  {"text": "start netflix", "label": "open_netflix"},
+  {"text": "run netflix", "label": "open_netflix"},
+  {"text": "open the netflix app", "label": "open_netflix"},
+  {"text": "open netflix on browser", "label": "open_netflix"},
+
+  {"text": "close netflix", "label": "close_netflix"},
+  {"text": "exit netflix", "label": "close_netflix"},
+  {"text": "shut netflix", "label": "close_netflix"},
+  {"text": "terminate netflix", "label": "close_netflix"},
+  {"text": "stop netflix", "label": "close_netflix"},
+  {"text": "close the netflix app", "label": "close_netflix"}
+],
+
+[
+  {"text": "open prime video", "label": "open_prime_video"},
+  {"text": "launch prime video", "label": "open_prime_video"},
+  {"text": "start prime video", "label": "open_prime_video"},
+  {"text": "run prime video", "label": "open_prime_video"},
+  {"text": "open the prime video app", "label": "open_prime_video"},
+  {"text": "open prime video on browser", "label": "open_prime_video"},
+
+  {"text": "close prime video", "label": "close_prime_video"},
+  {"text": "exit prime video", "label": "close_prime_video"},
+  {"text": "shut prime video", "label": "close_prime_video"},
+  {"text": "terminate prime video", "label": "close_prime_video"},
+  {"text": "stop prime video", "label": "close_prime_video"},
+  {"text": "close the prime video app", "label": "close_prime_video"}
+],
+
+[
+  {"text": "open hotstar", "label": "open_hotstar"},
+  {"text": "launch hotstar", "label": "open_hotstar"},
+  {"text": "start hotstar", "label": "open_hotstar"},
+  {"text": "run hotstar", "label": "open_hotstar"},
+  {"text": "open the hotstar app", "label": "open_hotstar"},
+  {"text": "open hotstar on browser", "label": "open_hotstar"},
+
+  {"text": "close hotstar", "label": "close_hotstar"},
+  {"text": "exit hotstar", "label": "close_hotstar"},
+  {"text": "shut hotstar", "label": "close_hotstar"},
+  {"text": "terminate hotstar", "label": "close_hotstar"},
+  {"text": "stop hotstar", "label": "close_hotstar"},
+  {"text": "close the hotstar app", "label": "close_hotstar"}
+],
+
+[
+  {"text": "open vmware", "label": "open_vmware"},
+  {"text": "please open vmware", "label": "open_vmware"},
+  {"text": "launch vmware", "label": "open_vmware"},
+  {"text": "start vmware", "label": "open_vmware"},
+  {"text": "run vmware", "label": "open_vmware"},
+  {"text": "open the vmware app", "label": "open_vmware"},
+
+  {"text": "close vmware", "label": "close_vmware"},
+  {"text": "exit vmware", "label": "close_vmware"},
+  {"text": "shut vmware", "label": "close_vmware"},
+  {"text": "terminate vmware", "label": "close_vmware"},
+  {"text": "stop vmware", "label": "close_vmware"},
+  {"text": "close the vmware app", "label": "close_vmware"}
+],
+
+[
+  {"text": "open virtualbox", "label": "open_virtualbox"},
+  {"text": "please open virtualbox", "label": "open_virtualbox"},
+  {"text": "launch virtualbox", "label": "open_virtualbox"},
+  {"text": "start virtualbox", "label": "open_virtualbox"},
+  {"text": "run virtualbox", "label": "open_virtualbox"},
+  {"text": "open the virtualbox app", "label": "open_virtualbox"},
+
+  {"text": "close virtualbox", "label": "close_virtualbox"},
+  {"text": "exit virtualbox", "label": "close_virtualbox"},
+  {"text": "shut virtualbox", "label": "close_virtualbox"},
+  {"text": "terminate virtualbox", "label": "close_virtualbox"},
+  {"text": "stop virtualbox", "label": "close_virtualbox"},
+  {"text": "close the virtualbox app", "label": "close_virtualbox"}
+],
+
+[
+  {"text": "open pycharm", "label": "open_pycharm"},
+  {"text": "please open pycharm", "label": "open_pycharm"},
+  {"text": "launch pycharm", "label": "open_pycharm"},
+  {"text": "start pycharm", "label": "open_pycharm"},
+  {"text": "run pycharm", "label": "open_pycharm"},
+  {"text": "open the pycharm app", "label": "open_pycharm"},
+
+  {"text": "close pycharm", "label": "close_pycharm"},
+  {"text": "exit pycharm", "label": "close_pycharm"},
+  {"text": "shut pycharm", "label": "close_pycharm"},
+  {"text": "terminate pycharm", "label": "close_pycharm"},
+  {"text": "stop pycharm", "label": "close_pycharm"},
+  {"text": "close the pycharm app", "label": "close_pycharm"}
+],
+
+[
+  {"text": "open intellij", "label": "open_intellij"},
+  {"text": "please open intellij", "label": "open_intellij"},
+  {"text": "launch intellij", "label": "open_intellij"},
+  {"text": "start intellij", "label": "open_intellij"},
+  {"text": "run intellij", "label": "open_intellij"},
+  {"text": "open the intellij app", "label": "open_intellij"},
+
+  {"text": "close intellij", "label": "close_intellij"},
+  {"text": "exit intellij", "label": "close_intellij"},
+  {"text": "shut intellij", "label": "close_intellij"},
+  {"text": "terminate intellij", "label": "close_intellij"},
+  {"text": "stop intellij", "label": "close_intellij"},
+  {"text": "close the intellij app", "label": "close_intellij"}
+],
+
+[
+  {"text": "open eclipse", "label": "open_eclipse"},
+  {"text": "please open eclipse", "label": "open_eclipse"},
+  {"text": "launch eclipse", "label": "open_eclipse"},
+  {"text": "start eclipse", "label": "open_eclipse"},
+  {"text": "run eclipse", "label": "open_eclipse"},
+  {"text": "open the eclipse app", "label": "open_eclipse"},
+
+  {"text": "close eclipse", "label": "close_eclipse"},
+  {"text": "exit eclipse", "label": "close_eclipse"},
+  {"text": "shut eclipse", "label": "close_eclipse"},
+  {"text": "terminate eclipse", "label": "close_eclipse"},
+  {"text": "stop eclipse", "label": "close_eclipse"},
+  {"text": "close the eclipse app", "label": "close_eclipse"}
+],
+
+[
+  {"text": "open google drive", "label": "open_google_drive"},
+  {"text": "please open google drive", "label": "open_google_drive"},
+  {"text": "launch google drive", "label": "open_google_drive"},
+  {"text": "start google drive", "label": "open_google_drive"},
+  {"text": "run google drive", "label": "open_google_drive"},
+  {"text": "open the google drive app", "label": "open_google_drive"},
+  {"text": "open google drive on browser", "label": "open_google_drive"},
+
+  {"text": "close google drive", "label": "close_google_drive"},
+  {"text": "exit google drive", "label": "close_google_drive"},
+  {"text": "shut google drive", "label": "close_google_drive"},
+  {"text": "terminate google drive", "label": "close_google_drive"},
+  {"text": "stop google drive", "label": "close_google_drive"},
+  {"text": "close the google drive app", "label": "close_google_drive"}
+],
+
+[
+  {"text": "open icloud", "label": "open_icloud"},
+  {"text": "please open icloud", "label": "open_icloud"},
+  {"text": "launch icloud", "label": "open_icloud"},
+  {"text": "start icloud", "label": "open_icloud"},
+  {"text": "run icloud", "label": "open_icloud"},
+  {"text": "open the icloud app", "label": "open_icloud"},
+  {"text": "open icloud on browser", "label": "open_icloud"},
+
+  {"text": "close icloud", "label": "close_icloud"},
+  {"text": "exit icloud", "label": "close_icloud"},
+  {"text": "shut icloud", "label": "close_icloud"},
+  {"text": "terminate icloud", "label": "close_icloud"},
+  {"text": "stop icloud", "label": "close_icloud"},
+  {"text": "close the icloud app", "label": "close_icloud"}
+],
+
+[
+  {"text": "open android studio", "label": "open_android_studio"},
+  {"text": "please open android studio", "label": "open_android_studio"},
+  {"text": "launch android studio", "label": "open_android_studio"},
+  {"text": "start android studio", "label": "open_android_studio"},
+  {"text": "run android studio", "label": "open_android_studio"},
+  {"text": "open the android studio app", "label": "open_android_studio"},
+
+  {"text": "close android studio", "label": "close_android_studio"},
+  {"text": "exit android studio", "label": "close_android_studio"},
+  {"text": "shut android studio", "label": "close_android_studio"},
+  {"text": "terminate android studio", "label": "close_android_studio"},
+  {"text": "stop android studio", "label": "close_android_studio"},
+  {"text": "close the android studio app", "label": "close_android_studio"}
+],
+
+[
+  {"text": "open sublime text", "label": "open_sublime"},
+  {"text": "please open sublime text", "label": "open_sublime"},
+  {"text": "launch sublime text", "label": "open_sublime"},
+  {"text": "start sublime text", "label": "open_sublime"},
+  {"text": "run sublime text", "label": "open_sublime"},
+  {"text": "open the sublime text app", "label": "open_sublime"},
+
+  {"text": "close sublime text", "label": "close_sublime"},
+  {"text": "exit sublime text", "label": "close_sublime"},
+  {"text": "shut sublime text", "label": "close_sublime"},
+  {"text": "terminate sublime text", "label": "close_sublime"},
+  {"text": "stop sublime text", "label": "close_sublime"},
+  {"text": "close the sublime text app", "label": "close_sublime"}
+],
+
+[
+  {"text": "open netbeans", "label": "open_netbeans"},
+  {"text": "please open netbeans", "label": "open_netbeans"},
+  {"text": "launch netbeans", "label": "open_netbeans"},
+  {"text": "start netbeans", "label": "open_netbeans"},
+  {"text": "run netbeans", "label": "open_netbeans"},
+  {"text": "open the netbeans app", "label": "open_netbeans"},
+
+  {"text": "close netbeans", "label": "close_netbeans"},
+  {"text": "exit netbeans", "label": "close_netbeans"},
+  {"text": "shut netbeans", "label": "close_netbeans"},
+  {"text": "terminate netbeans", "label": "close_netbeans"},
+  {"text": "stop netbeans", "label": "close_netbeans"},
+  {"text": "close the netbeans app", "label": "close_netbeans"}
+],
+
+[
+  {"text": "take screenshot", "label": "take_screenshot"},
+  {"text": "record screen", "label": "record_screen"},
+  {"text": "open clipboard", "label": "open_clipboard"},
+  {"text": "clear clipboard", "label": "clear_clipboard"},
+  {"text": "open downloads folder", "label": "open_downloads"},
+  {"text": "open desktop folder", "label": "open_desktop"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

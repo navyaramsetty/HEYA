@@ -1,0 +1,203 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening", "howdy", "what's up", "sup", "greetings"],
+      "responses": ["Hello! How can I help you today?", "Hey there! What can I do for you?", "Hi! I'm listening. What do you need?"]
+    },
+    {
+      "tag": "farewell",
+      "patterns": ["bye", "goodbye", "quit", "exit", "stop", "see you", "later", "take care", "shut down", "close"],
+      "responses": ["Goodbye! Have a wonderful day!", "See you later!", "Bye! Take care!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thank you", "thanks", "thank you so much", "thanks a lot", "cheers", "appreciate it"],
+      "responses": ["You're welcome!", "Happy to help!", "Anytime!", "No problem at all!"]
+    },
+    {
+      "tag": "get_time",
+      "patterns": ["what time is it", "tell me the time", "current time", "what's the time", "time please", "what time"],
+      "responses": ["__ACTION:get_time__"]
+    },
+    {
+      "tag": "get_date",
+      "patterns": ["what's today's date", "what date is it", "today's date", "current date", "what day is it", "which day today"],
+      "responses": ["__ACTION:get_date__"]
+    },
+    {
+      "tag": "get_day",
+      "patterns": ["what day is today", "which day is it", "day of the week", "what day"],
+      "responses": ["__ACTION:get_day__"]
+    },
+    {
+      "tag": "open_youtube",
+      "patterns": ["open youtube", "launch youtube", "go to youtube", "play youtube", "youtube please"],
+      "responses": ["__ACTION:open_youtube__"]
+    },
+    {
+      "tag": "open_google",
+      "patterns": ["open google", "launch google", "go to google", "google please"],
+      "responses": ["__ACTION:open_google__"]
+    },
+    {
+      "tag": "open_gmail",
+      "patterns": ["open gmail", "check email", "open my email", "launch gmail", "go to gmail"],
+      "responses": ["__ACTION:open_gmail__"]
+    },
+    {
+      "tag": "open_github",
+      "patterns": ["open github", "go to github", "launch github"],
+      "responses": ["__ACTION:open_github__"]
+    },
+    {
+      "tag": "open_wikipedia",
+      "patterns": ["open wikipedia", "go to wikipedia", "launch wikipedia", "wiki please"],
+      "responses": ["__ACTION:open_wikipedia__"]
+    },
+    {
+      "tag": "open_maps",
+      "patterns": ["open maps", "google maps", "open google maps", "show me maps", "navigate", "directions"],
+      "responses": ["__ACTION:open_maps__"]
+    },
+    {
+      "tag": "open_spotify",
+      "patterns": ["open spotify", "launch spotify", "play music", "open music"],
+      "responses": ["__ACTION:open_spotify__"]
+    },
+    {
+      "tag": "open_netflix",
+      "patterns": ["open netflix", "launch netflix", "watch netflix"],
+      "responses": ["__ACTION:open_netflix__"]
+    },
+    {
+      "tag": "search_google",
+      "patterns": ["search for", "google search", "search google for", "look up", "find information about", "search"],
+      "responses": ["__ACTION:search_google__"]
+    },
+    {
+      "tag": "search_youtube",
+      "patterns": ["search youtube for", "find on youtube", "youtube search for", "play on youtube"],
+      "responses": ["__ACTION:search_youtube__"]
+    },
+    {
+      "tag": "tell_joke",
+      "patterns": ["tell me a joke", "joke please", "say something funny", "make me laugh", "crack a joke", "funny joke"],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I told my computer I needed a break. Now it won't stop sending me Kit-Kat ads.",
+        "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "What do you call a fake noodle? An impasta!",
+        "I'm reading a book about anti-gravity. It's impossible to put down!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      ]
+    },
+    {
+      "tag": "tell_fact",
+      "patterns": ["tell me a fact", "random fact", "interesting fact", "did you know", "fun fact"],
+      "responses": [
+        "Honey never spoils. Archaeologists have found 3000-year-old honey in Egyptian tombs that was still edible!",
+        "A day on Venus is longer than a year on Venus. It rotates so slowly!",
+        "Octopuses have three hearts and blue blood!",
+        "The Eiffel Tower can be 15 cm taller during summer due to thermal expansion.",
+        "A group of flamingos is called a 'flamboyance'!",
+        "Bananas are berries, but strawberries are not!"
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": ["what's the weather", "weather today", "is it raining", "temperature outside", "weather forecast", "how's the weather", "weather report"],
+      "responses": ["__ACTION:open_weather__"]
+    },
+    {
+      "tag": "calculator",
+      "patterns": ["open calculator", "calculate", "launch calculator", "math calculation", "calculator please"],
+      "responses": ["__ACTION:open_calculator__"]
+    },
+    {
+      "tag": "open_notepad",
+      "patterns": ["open notepad", "open notes", "take a note", "launch notepad", "open text editor"],
+      "responses": ["__ACTION:open_notepad__"]
+    },
+    {
+      "tag": "system_volume_up",
+      "patterns": ["volume up", "increase volume", "louder", "turn it up", "raise volume"],
+      "responses": ["__ACTION:volume_up__"]
+    },
+    {
+      "tag": "system_volume_down",
+      "patterns": ["volume down", "decrease volume", "quieter", "turn it down", "lower volume"],
+      "responses": ["__ACTION:volume_down__"]
+    },
+    {
+      "tag": "system_mute",
+      "patterns": ["mute", "silence", "mute the sound", "turn off sound", "mute volume"],
+      "responses": ["__ACTION:mute__"]
+    },
+    {
+      "tag": "screenshot",
+      "patterns": ["take a screenshot", "screenshot please", "capture screen", "screen capture"],
+      "responses": ["__ACTION:screenshot__"]
+    },
+    {
+      "tag": "whats_your_name",
+      "patterns": ["what's your name", "who are you", "your name", "what do I call you", "introduce yourself"],
+      "responses": ["I'm Waku, your personal voice assistant! I'm here to make your life easier.", "My name is Waku! Think of me as your intelligent assistant, ready to help 24/7."]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": ["how are you", "how are you doing", "are you okay", "how do you feel", "you good"],
+      "responses": ["I'm doing great, thanks for asking! Ready to assist you.", "All systems running perfectly! How can I help you today?", "Feeling fantastic and ready to help! What do you need?"]
+    },
+    {
+      "tag": "age",
+      "patterns": ["how old are you", "what's your age", "when were you created", "your age"],
+      "responses": ["I'm ageless — just a voice assistant here to help you every day!", "I was recently created to assist you. Age is just a number for AI!"]
+    },
+    {
+      "tag": "set_alarm",
+      "patterns": ["set an alarm", "wake me up at", "alarm for", "remind me at", "set alarm"],
+      "responses": ["__ACTION:set_alarm__"]
+    },
+    {
+      "tag": "set_reminder",
+      "patterns": ["set a reminder", "remind me to", "reminder for", "don't let me forget"],
+      "responses": ["__ACTION:set_reminder__"]
+    },
+    {
+      "tag": "flip_coin",
+      "patterns": ["flip a coin", "heads or tails", "toss a coin", "coin flip"],
+      "responses": ["__ACTION:flip_coin__"]
+    },
+    {
+      "tag": "roll_dice",
+      "patterns": ["roll a dice", "roll the dice", "dice roll", "random number", "roll a die"],
+      "responses": ["__ACTION:roll_dice__"]
+    },
+    {
+      "tag": "open_camera",
+      "patterns": ["open camera", "launch camera", "take a photo", "take a picture"],
+      "responses": ["__ACTION:open_camera__"]
+    },
+    {
+      "tag": "system_info",
+      "patterns": ["system info", "computer info", "how's my computer", "system status", "battery status", "cpu usage"],
+      "responses": ["__ACTION:system_info__"]
+    },
+    {
+      "tag": "pause_music",
+      "patterns": ["pause music", "pause song", "stop music", "pause please"],
+      "responses": ["__ACTION:pause_music__"]
+    },
+    {
+      "tag": "next_song",
+      "patterns": ["next song", "skip song", "next track", "play next"],
+      "responses": ["__ACTION:next_song__"]
+    },
+    {
+      "tag": "capabilities",
+      "patterns": ["what can you do", "your features", "help me", "what are your capabilities", "show commands", "list commands", "what do you know"],
+      "responses": ["__ACTION:show_capabilities__"]
+    }
+  ]
+}

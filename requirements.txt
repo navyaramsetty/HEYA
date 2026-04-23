@@ -1,0 +1,7 @@
+# Voice Assistant - dependencies
+scikit-learn>=1.2.0
+# Voice input (speech-to-text)
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+# Voice output (text-to-speech) - works offline on Windows
+pyttsx3>=2.90
